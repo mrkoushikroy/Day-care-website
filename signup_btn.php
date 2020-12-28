@@ -1,0 +1,1 @@
+<a href="register.php" type="button"><button class="btn btn-danger" data-toggle="modal">Signup</button></a>

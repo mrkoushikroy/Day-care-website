@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Russo+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+text{
+    font-family: 'Lora', serif;
+font-family: 'Russo One', sans-serif;
+}
+body {
+  background-image: url('../img/backgroundd.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  }
+  video{
+      width: 100;
+      height: 50;
+  }
+  /* .form-control small{
+    visibility: hidden;
+    position: absolute;
+}
+.form-control.error small{
+    visibility: visible;
+    color: red;
+} */
